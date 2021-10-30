@@ -3,5 +3,18 @@
     <color name="colorPrimary">#3B5996</color>
     <color name="colorPrimaryDark">#3B5996</color>
     <color name="colorAccent">#3B5996</color>
-    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="theme1">#506D84</color>
+    <color name="theme2">#0B6E64</color>
+    <color name="theme3">#3B5996</color>
+    <color name="theme4">#423F3E</color>
+    <color name="theme5">#9A9483</color>
+    <color name="theme6">#4B3869</color>
+    <color name="theme7">#191A19</color>
+    <color name="theme8">#424642</color>
+    <color name="theme9">#C36A2D</color>
+    <color name="theme10">#6C4A4A</color>
+    <color name="theme11">#464D5C</color>
+    <color name="theme12">#FF5C58</color>
 </resources>

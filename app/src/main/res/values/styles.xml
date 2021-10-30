@@ -24,4 +24,76 @@
         <item name="android:colorControlActivated">@color/colorPrimary</item>
     </style>
 
+    <style name="Theme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme1</item>
+        <item name="colorPrimaryDark">@color/theme1</item>
+        <item name="colorAccent">@color/theme1</item>
+    </style>
+
+    <style name="Theme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme2</item>
+        <item name="colorPrimaryDark">@color/theme2</item>
+        <item name="colorAccent">@color/theme2</item>
+    </style>
+
+    <style name="Theme3" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme3</item>
+        <item name="colorPrimaryDark">@color/theme3</item>
+        <item name="colorAccent">@color/theme3</item>
+    </style>
+
+    <style name="Theme4" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme4</item>
+        <item name="colorPrimaryDark">@color/theme4</item>
+        <item name="colorAccent">@color/theme4</item>
+    </style>
+
+    <style name="Theme5" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme5</item>
+        <item name="colorPrimaryDark">@color/theme5</item>
+        <item name="colorAccent">@color/theme5</item>
+    </style>
+
+    <style name="Theme6" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme6</item>
+        <item name="colorPrimaryDark">@color/theme6</item>
+        <item name="colorAccent">@color/theme6</item>
+    </style>
+
+    <style name="Theme7" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme7</item>
+        <item name="colorPrimaryDark">@color/theme7</item>
+        <item name="colorAccent">@color/theme7</item>
+    </style>
+
+    <style name="Theme8" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme8</item>
+        <item name="colorPrimaryDark">@color/theme8</item>
+        <item name="colorAccent">@color/theme8</item>
+    </style>
+
+    <style name="Theme9" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme9</item>
+        <item name="colorPrimaryDark">@color/theme9</item>
+        <item name="colorAccent">@color/theme9</item>
+    </style>
+
+    <style name="Theme10" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme10</item>
+        <item name="colorPrimaryDark">@color/theme10</item>
+        <item name="colorAccent">@color/theme10</item>
+    </style>
+
+    <style name="Theme11" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme11</item>
+        <item name="colorPrimaryDark">@color/theme11</item>
+        <item name="colorAccent">@color/theme11</item>
+    </style>
+
+    <style name="Theme12" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/theme12</item>
+        <item name="colorPrimaryDark">@color/theme12</item>
+        <item name="colorAccent">@color/theme12</item>
+    </style>
+
 </resources>

@@ -5,6 +5,13 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3453703703703704" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3453703703703704" />
+        <entry key="pickColor/src/main/res/drawable/bg_button_normal.xml" value="0.3453703703703704" />
+        <entry key="pickColor/src/main/res/drawable/bg_button_pressed.xml" value="0.3453703703703704" />
+        <entry key="pickColor/src/main/res/drawable/button.xml" value="0.3453703703703704" />
+        <entry key="pickColor/src/main/res/drawable/round_button.xml" value="0.3453703703703704" />
+        <entry key="pickColor/src/main/res/layout/color_palette_layout.xml" value="0.35104166666666664" />
+        <entry key="pickColor/src/main/res/layout/palette_item.xml" value="0.35104166666666664" />
       </map>
     </option>
   </component>

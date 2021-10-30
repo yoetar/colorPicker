@@ -7,4 +7,14 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/chooseColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_color"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:stateListAnimator="@null"
+        android:textColor="@color/white"/>
+
 </LinearLayout>
